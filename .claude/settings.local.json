@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(cd \"d:\\\\titipin\"; Get-ChildItem -Recurse | Where-Object { !$_.PSIsContainer -and $_.FullName -notmatch \"node_modules\" -and $_.FullName -notmatch \"\\\\.next\" } | Select-Object -ExpandProperty FullName | ForEach-Object { $_.Replace\\(\"D:\\\\titipin\\\\\", \"\"\\) })"
+    ]
+  }
+}
