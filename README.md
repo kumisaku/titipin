@@ -99,11 +99,3 @@ Buka [http://localhost:3000](http://localhost:3000)
 1. Daftar / masuk sebagai Pemilik Warung
 2. Klaim warung di **Klaim Warung**
 3. Kelola menu di **Menu Saya** — tambah, edit, hapus item beserta harganya
-
-## Tim
-
-| Nama | Role |
-|---|---|
-| _(nama anggota 1)_ | Fullstack |
-| _(nama anggota 2)_ | Fullstack |
-| _(nama anggota 3)_ | Fullstack |
